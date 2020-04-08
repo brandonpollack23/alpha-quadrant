@@ -13,4 +13,8 @@ cargo run --manifest-path ../Cargo.toml
 
 where Cargo.toml patches sarekt's version to the local directory
 
+# Name
 
+The alpha-quadrant is where Starfleet was founded and where the majority 
+(sans Voyager, and DS9 when they're in the Gamma quadrant through the wormhole) Star Trek
+titles take place within our Galaxy.
