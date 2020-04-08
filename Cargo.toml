@@ -1,2 +1,5 @@
 [workspace]
-members = ["sarekt"]
+members = ["sarekt", "utopia-planitia"]
+
+[patch.crates-io]
+sarekt = { path = "./sarekt" }

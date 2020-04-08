@@ -1,3 +1,6 @@
 [submodule "sarekt"]
 	path = sarekt
 	url = https://github.com/brandonpollack23/sarekt.git
+[submodule "utopia-planitia"]
+	path = utopia-planitia
+	url = https://github.com/brandonpollack23/utopia-planitia.git
