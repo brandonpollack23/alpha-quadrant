@@ -1,0 +1,3 @@
+[submodule "sarekt"]
+	path = sarekt
+	url = https://github.com/brandonpollack23/sarekt.git
